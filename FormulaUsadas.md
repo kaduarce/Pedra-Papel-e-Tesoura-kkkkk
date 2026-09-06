@@ -1,4 +1,6 @@
-obs : " " = Mensagens minhas, Não implementaveis no programa
+VEJA EM CODIGO! , PRE VISUALIZACAO TA UM C*
+
+obs : "  " = Mensagens minhas, Não implementaveis no programa
 
 - IMPLEMENTAÇÃO DO NOME DO JOGADOR(OPCIONAL) -
 
